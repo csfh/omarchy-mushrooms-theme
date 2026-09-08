@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mushrooms-banner.png" alt="Mushrooms banner" width="100%">
+  <img src="mushrooms-banner.jpg" alt="Mushrooms banner" width="100%">
 </p>
 
 # Omarchy Mushrooms Theme
