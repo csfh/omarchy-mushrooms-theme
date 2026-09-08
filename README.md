@@ -42,8 +42,6 @@ Desktop, terminal, editor, launcher, notification, bar, lock screen, browser, Di
 The wallpapers are photographs on [Unsplash](https://unsplash.com), used under the [Unsplash License](https://unsplash.com/license):
 
 - [`scarlet-caps`](backgrounds/scarlet-caps.jpg) by [Hans Veth](https://unsplash.com/@hans_veth) ([photo](https://unsplash.com/photos/red-mushrooms--Vp8y5L2fKg))
-- [`honey-log`](backgrounds/honey-log.jpg) by [iggii](https://unsplash.com/@iggii) ([photo](https://unsplash.com/photos/brown-mushroom-on-brown-tree-trunk-UuDSJgMTxKQ))
-- [`moss-colony`](backgrounds/moss-colony.jpg) by [Jesse Bauer](https://unsplash.com/@jessebauer) ([photo](https://unsplash.com/photos/brown-mushrooms-on-green-moss-pzwH-a4aF3s))
 - [`bolete-bank`](backgrounds/bolete-bank.jpg) by [Kylli Kittus](https://unsplash.com/photos/brown-mushroom-on-green-grass-during-daytime-gtdyJQqCzsA)
 - [`pale-cluster`](backgrounds/pale-cluster.jpg) by [Presetbase](https://unsplash.com/@presetbase) ([photo](https://unsplash.com/photos/selective-focus-photography-of-pink-mushrooms-QN6NkYi3CKs))
 
